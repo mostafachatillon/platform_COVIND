@@ -121,10 +121,10 @@ module.exports = {
         resolveEnv: () => process.env.GATSBY_ACTIVE_ENV || 'next',
         env: {
           next: {
-            policy: [{ userAgent: '*', allow: ['/'] }],
+            policy: [{ userAgent: '*', disallow: ['/'] }],
           },
           release: {
-            policy: [{ userAgent: '*', disallow: '/' }],
+            policy: [{ userAgent: '*', allow: '/' }],
           },
         },
       },
