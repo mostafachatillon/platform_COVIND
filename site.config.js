@@ -38,14 +38,14 @@ module.exports = Object.freeze({
   siteMetadata: {
     /** The name of the website. */
     title: 'COVIND: COVID-19 individual patient data consortium',
-    titleShort: 'PU',
+    titleShort: 'COVIND',
     /** Release version of website. */
     version: pkg.version,
     /** Text to be shown in the landing page heading. */
     tag: 'Individual Patient Data Consortium',
     /** The description of the website. */
     description:
-      'COVIND is a global registry of COVID-19 individual patient data, and projects built on top of it',
+      'COVIND is a global registry of COVID-19 individual patient data, and of collective projects exploring them',
     /** The url of the website. */
     siteUrl: process.env.BUILD_SITE_URL,
     logo: path.resolve(__dirname, 'src/images/logo.png'),
@@ -74,9 +74,9 @@ module.exports = Object.freeze({
   },
   manifestOptions: {
     /* eslint-disable @typescript-eslint/camelcase */
-    name: 'Project Unicorn',
-    short_name: 'Project Unicorn',
-    start_url: '/projects',
+    name: 'COVIND',
+    short_name: 'COVIND',
+    start_url: '/projects_list',
     background_color: '#ffffff',
     theme_color: '#ffffff',
     display: 'minimal-ui',
