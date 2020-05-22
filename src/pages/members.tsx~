@@ -28,7 +28,7 @@ const TermsPage: FC = () => {
           <p>
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18BjUsuguOLjEMLD0JoP3Dnwdqg248TTP" width="640" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18BjUsuguOLjEMLD0JoP3Dnwdqg248TTP" width="100%" height="300"></iframe>
 
 <ul>
 <li><strong>Assiut, Egypt</strong></li>
@@ -56,6 +56,14 @@ const TermsPage: FC = () => {
 </ul>
 <p><a href="https://www.denverhealth.org/provider-directory/m/moore-ernest-e">Ernest E. Moore</a>, MD, Ernest E. Moore Shock Trauma Center at Denver Health</p>
 <p><a href="https://scholar.google.com/citations?user=4uU5DugAAAAJ&amp;hl=en">Hunter Moore</a>, MD, Division of Transplant Surgery, Department of Surgery, University of Colorado</p>
+
+
+
+<ul>
+<li><strong>Irvine, California, United States of America</strong></li>
+</ul>
+<p><a href="http://petrovax.com/medication/catalog/polyoxydonium/">Andy Goren</a>, MD, Chief Medical Officer, Applied Bio Inc.NPO Petrovax Pharm LLC, a full-cycle biopharmaceutical company</p>
+
 
 <ul>
 <li><strong>Lahore, Pakistan</strong></li>

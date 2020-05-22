@@ -57,6 +57,14 @@ const TermsPage: FC = () => {
 <p><a href="https://www.denverhealth.org/provider-directory/m/moore-ernest-e">Ernest E. Moore</a>, MD, Ernest E. Moore Shock Trauma Center at Denver Health</p>
 <p><a href="https://scholar.google.com/citations?user=4uU5DugAAAAJ&amp;hl=en">Hunter Moore</a>, MD, Division of Transplant Surgery, Department of Surgery, University of Colorado</p>
 
+
+
+<ul>
+<li><strong>Irvine, California, United States of America</strong></li>
+</ul>
+<p><a href="https://www.appliedbiology.com/AppliedBiologyTheAndroCoVProject.html">Andy Goren</a>, MD, Chief Medical Officer, Applied Biology, Inc.</p>
+
+
 <ul>
 <li><strong>Lahore, Pakistan</strong></li>
 </ul>
@@ -71,7 +79,7 @@ const TermsPage: FC = () => {
 <ul>
 <li><strong>Moscow, Russia</strong></li>
 </ul>
-<p><a href="http://petrovax.com/medication/catalog/polyoxydonium/">Altana Mikhakhanova</a>, MD, NPO Petrovax Pharm LLC, a full-cycle biopharmaceutical company</p>
+<p><a href="http://petrovax.com/medication/catalog/polyoxydonium/">Altana Mikhakhanova</a>, MD, NPO Petrovax Pharm LLC</p>
 
 
 <ul>
