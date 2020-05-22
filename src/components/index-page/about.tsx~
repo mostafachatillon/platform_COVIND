@@ -115,7 +115,7 @@ const About: FC = () => {
           COVIND accelerates <b> global pooling</b> of individual patient data, and research projects mining it. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
         </SubText>
 
-        <StyledLink to="/projects" title={`${siteMetadata.title} projects`}>
+        <StyledLink to="/projects_list" title={`${siteMetadata.title} projects`}>
           See projects by members
           <LinkImage />
         </StyledLink>
