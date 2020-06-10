@@ -34,6 +34,19 @@ const TermsPage: FC = () => {
 <li><strong>Assiut, Egypt</strong></li>
 </ul>
 <p><a href="http://www.aun.edu.eg/membercv.php?M_ID=2016">Aliae Hussein</a>, MD, Professor, Department of Chest Diseases, Faculty of Medicine, Assiut University</p>
+
+
+
+<ul>
+<li><strong>Buenos Aires, Argentina</strong></li>
+</ul>
+<p><a href="https://www.nemechekconsultativemedicine.com/vns-intervention-trial-for-covid-19-pneumonia/">Patrick Nemechek
+</a>, DO, Nemechek Autonomic Medicine (Buckeye, Arizona, USA), and COVID-19 VNS ARDS Prevention Trial at Hospital Zonal Virgen del Carmen de Zárate, Buenos Aires, Argentina
+</p>
+
+
+
+
 <ul>
 <li><strong>Brescia, Italy</strong></li>
 </ul>
@@ -74,6 +87,14 @@ const TermsPage: FC = () => {
 <li><strong>London, United Kingdom</strong></li>
 </ul>
 <p><a href="https://www.nhs.uk/profiles/consultant/6130031">Emmanuel Ako</a>, MD, Department of Cardiology at Chelsea and Westminster NHS hospital</p>
+
+
+
+<ul>
+<li><strong>Mansoura, Egypt</strong></li>
+</ul>
+<p><a href="http://eupc.mans.edu.eg/V2/get?Dr=28204141202359&T=2&L=A">Ali Sobh</a>, MD, Mansoura University</p>
+
 
 
 <ul>
