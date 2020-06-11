@@ -62,6 +62,7 @@ question: 'What about data protection regulations?',
 <li>Iran Personal Data Protection and Safeguarding Draft Act (PDPSDA) </li>
 <li>Egypt Data Protection Act (DPA) </li>
 <li>United Kingdom General Data Protection Regulation (UK-GDPR) </li>
+<li>Argentina Personal Data Protection Law (Ley 25.326) </li>
 </ul>
 
       </p>
