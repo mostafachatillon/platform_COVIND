@@ -63,6 +63,8 @@ question: 'What about data protection regulations?',
 <li>Egypt Data Protection Act (DPA) </li>
 <li>United Kingdom General Data Protection Regulation (UK-GDPR) </li>
 <li>Argentina Personal Data Protection Law (Ley 25.326) </li>
+<li>People's Republic of China Cyber Security Law  </li>
+ <li>Colombia Personal Data Protection Law (Ley 1581) </li>
 </ul>
 
       </p>

@@ -45,6 +45,13 @@ const TermsPage: FC = () => {
 </p>
 
 
+<ul>
+<li><strong>Bogota, Colombia</strong></li>
+</ul>
+<p><a href="https://pure.urosario.edu.co/en/persons/juan-manuel-anaya-cabrera">Juan Manuel Anaya, 
+</a>, MD, Universidad del Rosario, Center for Autoimmune Diseases Research (CREA)
+</p>
+
 
 
 <ul>
