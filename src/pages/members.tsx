@@ -38,6 +38,16 @@ const TermsPage: FC = () => {
 
 
 <ul>
+<li><strong>Beijing, China</strong></li>
+</ul>
+<p><a href="https://www.researchgate.net/profile/Kai_Pang10">Kai Pang
+</a>, MD, Department of General Surgery, Beijing Friendship Hospital, Capital Medical University
+</p>
+
+
+
+
+<ul>
 <li><strong>Buenos Aires, Argentina</strong></li>
 </ul>
 <p><a href="https://www.nemechekconsultativemedicine.com/vns-intervention-trial-for-covid-19-pneumonia/">Patrick Nemechek
@@ -69,6 +79,13 @@ const TermsPage: FC = () => {
 </ul>
 <p><a href="https://www.denverhealth.org/provider-directory/m/moore-ernest-e">Ernest E. Moore</a>, MD, Ernest E. Moore Shock Trauma Center at Denver Health</p>
 <p><a href="https://scholar.google.com/citations?user=4uU5DugAAAAJ&amp;hl=en">Hunter Moore</a>, MD, Division of Transplant Surgery, Department of Surgery, University of Colorado</p>
+
+
+
+<ul>
+<li><strong>Graz, Austria</strong></li>
+</ul>
+<p><a href="https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=2008005"> Martin Rief</a>, MD, Division of General Anaesthesiology, Emergency and Intensive Care Medicine, Medical University of Graz </p>
 
 
 
@@ -111,6 +128,19 @@ const TermsPage: FC = () => {
 <li><strong>Rome, Italy</strong></li>
 </ul>
 <p><a href="https://www.policlinicogemelli.it/en/doctors/dott-danilo-buonsenso/">Danilo Buonsenso</a>, MD, U.O.C. di Pediatria, Fondazione Policlinico Universitario “A. Gemelli”</p>
+
+
+
+
+<ul>
+<li><strong>Tanta, Egypt</strong></li>
+</ul>
+<p><a href="https://scholar.google.com/citations?user=s1_-4qwAAAAJ&hl=en"> Sherief Abd-Elsalam</a>, MD, Department of Tropical Medicine and Infectious Diseases, Faculty of Medicine, Tanta University </p>
+
+
+
+
+
 <ul>
 <li><strong>Tehran, Iran</strong></li>
 </ul>
