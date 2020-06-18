@@ -48,8 +48,7 @@ const TermsPage: FC = () => {
 <ul>
 <li><strong>Bogota, Colombia</strong></li>
 </ul>
-<p><a href="https://pure.urosario.edu.co/en/persons/juan-manuel-anaya-cabrera">Juan Manuel Anaya, 
-</a>, MD, Universidad del Rosario, Center for Autoimmune Diseases Research (CREA)
+<p><a href="https://pure.urosario.edu.co/en/persons/juan-manuel-anaya-cabrera">Juan Manuel Anaya</a>, MD, Universidad del Rosario, Center for Autoimmune Diseases Research (CREA)
 </p>
 
 
@@ -95,11 +94,31 @@ const TermsPage: FC = () => {
 <p><a href="https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=2008005"> Martin Rief</a>, MD, Division of General Anaesthesiology, Emergency and Intensive Care Medicine, Medical University of Graz </p>
 
 
+<ul>
+<li><strong>Graz, Austria</strong></li>
+</ul>
+<p><a href="https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=2008005"> Martin Rief</a>, MD, Division of General Anaesthesiology, Emergency and Intensive Care Medicine, Medical University of Graz </p>
+
+
+<ul>
+<li><strong>Istanbul, Turkey</strong></li>
+</ul>
+<p><a href="https://www.okan.edu.tr/en/cv/begum-saripinarli/"> Begüm Okudan</a>, MD, Department of Physiotherapy and Rehabilitation, Okan University </p>
+
+
 
 <ul>
 <li><strong>Irvine, California, United States of America</strong></li>
 </ul>
 <p><a href="https://www.appliedbiology.com/AppliedBiologyTheAndroCoVProject.html">Andy Goren</a>, MD, Chief Medical Officer, Applied Biology, Inc.</p>
+
+
+
+<ul>
+<li><strong>Kinshasa, DR Congo</strong></li>
+</ul>
+<p><a href="https://www.researchgate.net/profile/Guyguy_Kabundi_Tshima">Guyguy Kabundi Tshima
+</a>, MD, Parasitology Service, Department of Tropical Medicine, Infectious and Parasitic Diseases, Faculty of Medicine, University of Kinshasa</p>
 
 
 <ul>

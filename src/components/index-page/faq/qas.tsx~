@@ -52,7 +52,7 @@ export const qas: readonly Qa[] = [
 question: 'What about data protection regulations?',
     answer: (
       <p>
-      We are compliant with all data regulations in all jurisdictions we operate. At the moment, this includes:
+      We are compliant with all data regulations in all jurisdictions we operate. This includes:
 
 <ul>
 <li>European Union General Data Protection Regulation (GDPR) </li>
@@ -62,6 +62,9 @@ question: 'What about data protection regulations?',
 <li>Iran Personal Data Protection and Safeguarding Draft Act (PDPSDA) </li>
 <li>Egypt Data Protection Act (DPA) </li>
 <li>United Kingdom General Data Protection Regulation (UK-GDPR) </li>
+<li>Argentina Personal Data Protection Law (Ley 25.326) </li>
+<li>People's Republic of China Cyber Security Law  </li>
+ <li>Colombia Personal Data Protection Law (Ley 1581) </li>
 </ul>
 
       </p>

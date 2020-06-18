@@ -65,6 +65,8 @@ question: 'What about data protection regulations?',
 <li>Argentina Personal Data Protection Law (Ley 25.326) </li>
 <li>People's Republic of China Cyber Security Law  </li>
  <li>Colombia Personal Data Protection Law (Ley 1581) </li>
+ <li>Turkey Personal Health Data Regulation (No. 30808) </li>
+ <li>DR Congo Constitution (art. 31) </li>
 </ul>
 
       </p>
