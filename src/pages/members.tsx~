@@ -140,6 +140,15 @@ const TermsPage: FC = () => {
 
 
 
+
+<ul>
+<li><strong>Mashhad, Iran</strong></li>
+</ul>
+<p><a href="https://scholar.google.com/citations?user=c9UHHxcAAAAJ&hl=en">Daryoush Hamidi Alamdari</a>, MD, Associate Professor, Surgical Oncology Research Center,
+Mashhad University of Medical Sciences</p>
+
+
+
 <ul>
 <li><strong>Moscow, Russia</strong></li>
 </ul>
