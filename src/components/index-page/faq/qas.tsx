@@ -67,6 +67,9 @@ question: 'What about data protection regulations?',
  <li>Colombia Personal Data Protection Law (Ley 1581) </li>
  <li>Turkey Personal Health Data Regulation (No. 30808) </li>
  <li>DR Congo Constitution (art. 31) </li>
+ <li>Mexico Federal Law on Protection of Personal Data Held by Individuals
+ (LFPDPPP) </li>
+ <li>Cuba Constitution (art. 97)  </li>
 </ul>
 
       </p>

@@ -53,6 +53,8 @@ const TermsPage: FC = () => {
 <li><p>High-Flow Nasal Cannula...</p>
 </li>
 </ul>
+<h3 id="rehab">Long-term rehabilitation</h3>
+
 <p> <a href='contact'>Contact us</a> to participate, or propose your project! </p>
 
 

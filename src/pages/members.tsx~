@@ -33,8 +33,20 @@ const TermsPage: FC = () => {
 <ul>
 <li><strong>Assiut, Egypt</strong></li>
 </ul>
+
+<p><a href="http://www.aun.edu.eg/membercv.php?M_ID=2016">Ahmed Abbas</a>, MD, Woman's Health Center, Assiut University</p>
+
+
 <p><a href="http://www.aun.edu.eg/membercv.php?M_ID=2016">Aliae Hussein</a>, MD, Professor, Department of Chest Diseases, Faculty of Medicine, Assiut University</p>
 
+
+
+<ul>
+<li><strong>Austin, Texas, United States of America</strong></li>
+</ul>
+<p><a href="https://www.radcliffecardiology.com/authors/andrea-natale">Andrea Natale
+</a>, MD, FACC, FHRS, FESC, Executive Medical Director, Texas Cardiac Arrhythmia Institute, St. David’s Medical Center
+</p>
 
 
 <ul>
@@ -89,15 +101,31 @@ const TermsPage: FC = () => {
 
 
 <ul>
-<li><strong>Graz, Austria</strong></li>
+<li><strong>Erlangen, Germany</strong></li>
 </ul>
-<p><a href="https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=2008005"> Martin Rief</a>, MD, Division of General Anaesthesiology, Emergency and Intensive Care Medicine, Medical University of Graz </p>
+<p><a href="https://www.frauenklinik.uk-erlangen.de/kontakt/visitenkarte/vk/alexanderhein/1965/">Alexander Hein</a>, MD, Universitätsklinikum Erlangen </p>
+
+
+
+
+<ul>
+<li><strong>Faisalabad, Pakistan</strong></li>
+</ul>
+<p><a href="https://gcuf.edu.pk/dept-medical-science">Ishtiaq Ahmed</a>, MD, Government College University Faisalabad </p>
 
 
 <ul>
 <li><strong>Graz, Austria</strong></li>
 </ul>
 <p><a href="https://forschung.medunigraz.at/fodok/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=2008005"> Martin Rief</a>, MD, Division of General Anaesthesiology, Emergency and Intensive Care Medicine, Medical University of Graz </p>
+
+
+<ul>
+<li><strong>Habana, Cuba</strong></li>
+</ul>
+<p><a href="https://www.researchgate.net/profile/Iraldo_Rivero"> 
+Iraldo Bello Rivero</a>, MD, Center for Genetic Engineering and Biotechnology </p>
+
 
 
 <ul>
@@ -112,6 +140,13 @@ const TermsPage: FC = () => {
 </ul>
 <p><a href="https://www.appliedbiology.com/AppliedBiologyTheAndroCoVProject.html">Andy Goren</a>, MD, Chief Medical Officer, Applied Biology, Inc.</p>
 
+
+
+<ul>
+<li><strong> Kafr El Sheikh, Egypt</strong></li>
+</ul>
+<p><a href="https://www.researchgate.net/profile/Guyguy_Kabundi_Tshima">Mahmoud Ramadan
+</a>, MD, Parasitology Service, Department of Tropical Medicine, Infectious and Parasitic Diseases, Faculty of Medicine, University of Kinshasa</p>
 
 
 <ul>
@@ -133,6 +168,15 @@ const TermsPage: FC = () => {
 
 
 
+
+<ul>
+<li><strong>Manchester, United Kingdom</strong></li>
+</ul>
+<p><a href="https://www.diabetes.org.uk/professionals/resources/clinical-champions-and-networks/professor-edward-jude">Edward Jude</a>, MD, Consultant Diabetologist and Endocrinologist, Tameside Hospital NHS Foundation Trust, Honorary Professor, University of Manchester, Honorary Professor, Manchester Metropolitan University</p>
+
+
+
+
 <ul>
 <li><strong>Mansoura, Egypt</strong></li>
 </ul>
@@ -149,10 +193,29 @@ Mashhad University of Medical Sciences</p>
 
 
 
+
+<ul>
+<li><strong>Mexico City, Mexico</strong></li>
+</ul>
+<p><a href="https://ciudaddelasideas.com/en/ponentes/martin-iglesias-morales/">Martin Iglesias</a>, MD, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán </p>
+
+
+
 <ul>
 <li><strong>Moscow, Russia</strong></li>
 </ul>
 <p><a href="http://petrovax.com/medication/catalog/polyoxydonium/">Altana Mikhakhanova</a>, MD, NPO Petrovax Pharm LLC</p>
+
+
+
+
+<ul>
+<li><strong>Oslo, Norway</strong></li>
+</ul>
+<p><a href="https://www.ous-research.no/home/dahl/Group+members/17058"> Arne Vasli Lund Søraas</a>, MD, Oslo University Hospital </p>
+
+
+
 
 
 <ul>
@@ -166,6 +229,15 @@ Mashhad University of Medical Sciences</p>
 
 
 
+<ul>
+<li><strong>Shiraz, Iran</strong></li>
+</ul>
+<p><a href="http://gsia.sums.ac.ir/en/page/18690/Dr--Payam-Peymani">  Payam Peymani</a>, PhD, Assistant Professor and Director of the Group Pharmacoepidemiology and Pharmacoeconomics Group Health Policy Research Center, School of Medicine, Shiraz University of Medical Sciences </p>
+
+
+
+
+
 
 <ul>
 <li><strong>Tanta, Egypt</strong></li>
@@ -175,10 +247,25 @@ Mashhad University of Medical Sciences</p>
 
 
 
+<ul>
+<li><strong>Tabriz, Iran</strong></li>
+</ul>
+<p><a href="https://scrc-en.tbzmed.ac.ir/Page/38/Dr--Leila-Roshangar.html">  
+Leila Roshangar</a>, MD, Professor, Head of Anatomical Sciences Department, Faculty of medicine, Director of Stem cell research center, Tabriz University of Medical Sciences </p>
+
+
+
 
 <ul>
 <li><strong>Tehran, Iran</strong></li>
 </ul>
+
+<p><a href="https://iums.ac.ir/content/77349/Faculty-Members-of-the-School-of-Pharmacy">Azadeh  Eshraghi</a>, PharmD, PhD, Department of Clinical Pharmacy, Faculty of Pharmacy, Iran University of Medical Sciences </p>
+
+
+<p><a href="https://scholar.google.com/citations?user=2juR-S4AAAAJ&hl=en">Azadeh  Mottaghi</a>, MD, Research Center for Prevention of Cardiovascular Diseases, Research Institute of Endocrine Sciences, Iran University of Medical Sciences </p>
+
+
 <p><a href="https://research.sbmu.ac.ir/webdocument/load.action?webdocument_code=8000&amp;masterCode=66035435">Seyed Sina Naghibi Irvani</a>, MD, MPH, MBA, Shahid Beheshti University of Medical Sciences</p>
 <ul>
 <li><strong>Tübingen, Germany</strong></li>

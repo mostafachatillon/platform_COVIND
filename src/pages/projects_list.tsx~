@@ -50,7 +50,7 @@ const TermsPage: FC = () => {
 </li>
 <li><p>Helmet Ventilation</p>
 </li>
-<li><p>High-Flow Nasal Cannula…</p>
+<li><p>High-Flow Nasal Cannula...</p>
 </li>
 </ul>
 <p> <a href='contact'>Contact us</a> to participate, or propose your project! </p>
