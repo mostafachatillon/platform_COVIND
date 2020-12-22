@@ -53,7 +53,7 @@ const TermsPage: FC = () => {
 <ul>
 <li><strong>Barcelona, Spain</strong></li>
 </ul>
-<p><a href="https://www.radcliffecardiology.com/authors/andrea-natale">Carlos Ferrando Ortolá</a>, MD, PhD, DESA, Head of Surgical Intensive Care Unit, Anesthesiology Department, Barcelona Clinic Hospital
+<p><a href="https://www.clinicbarcelona.org/en/professionals/carlos-ferrando-ortola">Carlos Ferrando Ortolá</a>, MD, PhD, DESA, Head of Surgical Intensive Care Unit, Anesthesiology Department, Barcelona Clinic Hospital
 </p>
 
 
