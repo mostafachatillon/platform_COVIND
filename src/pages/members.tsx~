@@ -66,6 +66,14 @@ const TermsPage: FC = () => {
 
 
 <ul>
+<li><strong>Brussels, Belgium</strong></li>
+</ul>
+<p><a href="https://cris.vub.be/en/persons/manu-malbrain(d2c93642-c862-4719-8068-70da55fef444).html">Manu Malbrain</a>, MD, University Hospital Brussels
+</p>
+
+
+
+<ul>
 <li><strong>Buenos Aires, Argentina</strong></li>
 </ul>
 <p><a href="https://www.nemechekconsultativemedicine.com/vns-intervention-trial-for-covid-19-pneumonia/">Patrick Nemechek
@@ -172,7 +180,7 @@ Iraldo Bello Rivero</a>, MD, Center for Genetic Engineering and Biotechnology </
 <ul>
 <li><strong>Manchester, United Kingdom</strong></li>
 </ul>
-<p><a href="https://www.diabetes.org.uk/professionals/resources/clinical-champions-and-networks/professor-edward-jude">Edward Jude</a>, MD, Consultant Diabetologist and Endocrinologist, Tameside Hospital NHS Foundation Trust, Honorary Professor, University of Manchester and Manchester Metropolitan University</p>
+<p><a href="https://www.diabetes.org.uk/professionals/resources/clinical-champions-and-networks/professor-edward-jude">Edward Jude</a>, MD, Consultant Diabetologist and Endocrinologist, Tameside Hospital NHS Foundation Trust. Honorary Professor, University of Manchester and Manchester Metropolitan University</p>
 
 
 
